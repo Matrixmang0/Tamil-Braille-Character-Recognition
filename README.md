@@ -2,7 +2,7 @@
 
 This repo contains various models trained to recognize discrete tamil braille script
 
-Below are the models used
+Below are the models in this repo
 
 - CNN-Dense
 - XGBoost
